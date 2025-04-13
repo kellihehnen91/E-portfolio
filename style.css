@@ -193,8 +193,8 @@ nav {
 }
 
 .about-me__info--title {
-  margin-bottom: 24px;
-  animation: fade up 650ms 400ms backwards;
+  margin-bottom: 16px;
+  animation: fade-up 650ms 400ms backwards;
 }
 
 .about-me__info--para {
@@ -227,7 +227,7 @@ nav {
 .about-me__img--container {
   flex: 1;
   display: flex;
-  padding: 48px;
+  align-items: center;
 }
 
 .about-me__img {
